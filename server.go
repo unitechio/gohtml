@@ -8,7 +8,7 @@
 // any other request like /name by saying "Hello, name!".
 //
 // See golang.org/x/example/outyet for a more sophisticated server.
-package main
+package gohtml
 
 import (
 	"flag"

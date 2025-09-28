@@ -1,5 +1,5 @@
 // Package html contains a plugin for the UniDoc.
-package main
+package gohtml
 
 import (
 	"bytes"
