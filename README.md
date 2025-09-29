@@ -1,8 +1,8 @@
-# 📝 UniHTML with UniDoc – HTML to PDF in Go
+# 📝 GoHTML with UniDoc – HTML to PDF in Go
 
 ## 📦 Giới thiệu
 
-[UniHTML](https://github.com/unitechio/gohtml) là một phần của **GoDoc**, cho phép render HTML/CSS sang PDF bằng cách sử dụng **Chromium + headless**.
+[GoHTML](https://github.com/unitechio/gohtml) là một phần của **GoDoc**, cho phép render HTML/CSS sang PDF bằng cách sử dụng **Chromium + headless**.
 Bạn có thể dùng nó trong Go để tạo báo cáo, hóa đơn, hoặc in ấn tài liệu trực tiếp từ HTML.
 
 ---
